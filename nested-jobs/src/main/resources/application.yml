@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/postgres
+    username: vitalii
+    password: p@sword
+    driver-class-name: org.postgresql.Driver
+  batch:
+    initialize-schema: always
+    job:
+      names: parentJob
