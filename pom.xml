@@ -19,9 +19,20 @@
     </properties>
 
     <modules>
+        <module>database-reader</module>
+        <module>decisions</module>
+        <module>flat-files-reader</module>
+        <module>flow</module>
         <module>HelloBatch</module>
+        <module>item-reader</module>
+        <module>job-parameters</module>
+        <module>listeners</module>
+        <module>mulitple-sources-reader</module>
+        <module>nested-jobs</module>
+        <module>splits</module>
         <module>transitions</module>
         <module>flow</module>
+        <module>xml-reader</module>
     </modules>
 
 
