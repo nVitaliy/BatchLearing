@@ -33,6 +33,8 @@
         <module>transitions</module>
         <module>flow</module>
         <module>xml-reader</module>
+        <module>item-stream</module>
+        <module>item-writer</module>
     </modules>
 
 
